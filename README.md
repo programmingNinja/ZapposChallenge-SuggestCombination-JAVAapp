@@ -12,11 +12,12 @@ Instructions to use the application screen by screen:
 1)	If you are running the application on an IDE, don’t forget to import the libraries
 2)	The application will have a search text field and a button which facilitates the user to search any item on zappos.
 3)	Once you enter a search term, the application will return a set of objects matching that keyword.
-4)	If you have a specific budget in your mind and want to buy specific number of items within that budget, the application will then have two text fields to take those values from you. 
-5)	Once you specify a proper number in both of these fields, it will compute the possible combinations for you and give you suggestions of what to buy.
+4)	If you have a specific budget in your mind and want to buy specific number of items within that budget, the             application will then have two text fields to take those values from you. 
+5)	Once you specify a proper number in both of these fields, it will compute the possible combinations for you and give     you suggestions of what to buy.
 6)	These suggestions will be less than or equal to your specified budget.
 7)	These suggestions will be on the console instead of the application and you will have to look there for it.
-8)	The user cannot input more than 9999 number of items to buy and more than $99999.99 as their budget as the size of the textbox is 4 and 8 respectively
+8)	The user cannot input more than 9999 number of items to buy and more than $99999.99 as their budget as the size of      the textbox is 4 and 8 respectively
+
 Note to the reader: - I wanted to use screenshots here, but the API keys were exhausted and I was no longer able to make API calls and hence no longer could get the application running.
 
 
