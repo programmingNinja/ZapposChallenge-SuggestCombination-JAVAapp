@@ -6,7 +6,9 @@ This is the challenge question for zappos software engineering intern for summer
 Description:
 =========================================
 This is a java application which lets the user search for items from the zappos website, using some keywords. On the basis of the search the user then can specify their budget and the number of items they want to purchase, and the application will give them the possible combinations of specified number of products whose total cost sums up to their specified budget.
+
 Instructions to use the application screen by screen:
+=====================================================
 1)	If you are running the application on an IDE, don’t forget to import the libraries
 2)	The application will have a search text field and a button which facilitates the user to search any item on zappos.
 3)	Once you enter a search term, the application will return a set of objects matching that keyword.
