@@ -4,6 +4,16 @@
  * Description: 
  * This is the brain of the application. it is used to compute the various combinations of items that are within the
  * users' budget. it mainly is practical application of a mixture of knapsack and linear sub sequence problems.
+ * 
+ * Input:
+ * It takes the array of product that has been retrieved based on the search term using the zappos search API, 
+ * and the number of items that the user want to buy, through the GUI, as well as the budget he has for the purchase.
+ * 
+ * Output:
+ * Based on these inputs, the combination of items are created with is within the budget. I wanted to keep the 
+ * suggestions based on search terms i.e. within a bounded domain since there may be so many items that may fall into
+ * the criteria for combinations, that the user may be exhausted to view all of them. An alternative to this problem 
+ * is limiting the number of combinations which is in the future scope of this project.
  */
 
 package zappos;
